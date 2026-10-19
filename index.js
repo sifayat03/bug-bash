@@ -4,7 +4,7 @@ function add(a, b) {
 }
 
 function subtract(a, b) {
-    return a + b; // BUG 2
+    return a - b; // BUG 2
 }
 
 function multiply(a, b) {
